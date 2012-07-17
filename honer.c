@@ -13,7 +13,7 @@ main()
     printf("\n");
 
     printf("最大次数を入力してください: ");
-    scanf("%d", &x);
+    scanf("%d", &n);
     printf("\n");
 
     printf("各項の係数を入力してください\n");

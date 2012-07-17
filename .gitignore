@@ -1,2 +1,7 @@
-a.out
+*.out
 *.swp
+*.lib
+*.o
+*.dll
+*.so
+*.exe
